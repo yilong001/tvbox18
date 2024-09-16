@@ -1,18 +1,17 @@
 ﻿
 {
 "spider":"https://good.1230101.xyz/default/https/raw.githubusercontent.com/yilong001/tvbox18/refs/heads/main/jar/pg.jar",
-
-
-
-"lives": [ { "name": "tvlive", "type": 0, "url": "https://xhdwc.tk/tvlive.txt", "playerType": 2 }, { "name": "TV", "type": 0, "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u", "playerType": 1 } ], 
-
-
+"lives": [{
+    "name":"live",
+    "type": 0,
+    "url":"https://good.1230101.xyz/default/https/xhdwc.tk/tvlive.txt",
+    "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+    "logo":"https://epg.112114.xyz/logo/{name}.png"
+}],
 "sites":[
-
 {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_AppYsV2","name":"YG影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sp.wgys.eu.org/api.php/app/"},
 {"key":"ttzy", "name":"👰天堂资源(SP)", "type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1, "quickSearch":1}
-
 ],
 
 
