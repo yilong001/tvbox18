@@ -11,8 +11,8 @@
 "sites":[
 {"key": "Kuaikan","name": " 🎴吾爱快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_AppYsV2","name":"YG影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sp.wgys.eu.org/api.php/app/"},
-{"key":"csp_AppYsV2","name":"YG影视1","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sp1.wgys.eu.org/api.php/app/"},
-{"key":"csp_AppYsV2","name":"serv影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://serv00.1230101.xyz/api.php/app/"}
+{"key":"csp_AppYsV3","name":"YG影视1","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://sp1.wgys.eu.org/api.php/app/"},
+{"key":"csp_AppYsV4","name":"serv影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://serv00.1230101.xyz/api.php/app/"}
 ],
 
 
