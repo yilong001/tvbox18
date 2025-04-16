@@ -1,3 +1,4 @@
+Ghost in the Shell：S.A.C. 2nd GIG => {[tmdbid=1095;type=tv;s=2]}
 # 处理OVA或特别篇（如 "Individual Eleven"）
 Koukaku Kidoutai: The Individual Eleven => {[tmdbid=3784;type=tv;s=2;e=0]} && OVA <>
 # 处理多季合集命名（如 "Season 1"）
