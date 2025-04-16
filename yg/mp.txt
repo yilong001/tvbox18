@@ -1,3 +1,8 @@
+# 处理OVA或特别篇（如 "Individual Eleven"）
+Koukaku Kidoutai: The Individual Eleven => {[tmdbid=3784;type=tv;s=2;e=0]} && OVA <>
+# 处理多季合集命名（如 "Season 1"）
+Koukaku Kidoutai => {[tmdbid=3784;type=tv;s=1]} && Season 1 <>
+Koukaku Kidoutai => {[tmdbid=3784;type=tv;s=2]} && Season 2 <>
 Ghost in the Shell：STAND ALONE COMPLEX => Koukaku Kidoutai: STAND ALONE COMPLEX
 快藏好！瑪琪娜同學!! => Kakushite! Makina-san!!
 攻殻機動隊 STAND ALONE COMPLEX => Koukaku Kidoutai: STAND ALONE COMPLEX
